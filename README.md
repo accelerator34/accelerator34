@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm accelerator34, a currently backend developer student, passionate and diciplined.
 <!--
 **accelerator34/accelerator34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
